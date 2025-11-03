@@ -20,10 +20,10 @@
   - [ABB Robotics Programming](https://github.com/Amodu-Steven/ABB-ROBOTICS-PROGRAMMING)
 
 - <b>Autonomous Robot Navigation</b>
-  - [Autonomous Robot Navigation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Autonomous Robot Navigation](https://github.com/Amodu-Steven/Autonomous-Robot-Navigation)
 
-<b>3D Virtual Environment (AZTEC ISLAND)</b>
-- [3D Virtual Environment (AZTEC ISLAND)](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>3D Virtual Environment (AZTEC ISLAND)</b>
+  - [3D Virtual Environment (AZTEC ISLAND)](https://github.com/Amodu-Steven/3D-Virtual-Environment-AZTEC-ISLAND-)
   
 <h2>📺 Popular YouTube Videos</h2>
 
