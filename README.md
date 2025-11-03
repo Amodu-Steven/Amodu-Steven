@@ -17,14 +17,14 @@
 <h2>👨‍💻 Other Projects (Robotics Programming, Virtual reality Environment)</h2>
   
 - <b>ABB Robotics Programming</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [ABB Robotics Programming](https://github.com/Amodu-Steven/ABB-ROBOTICS-PROGRAMMING)
+
 - <b>Autonomous Robot Navigation</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Autonomous Robot Navigation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <b>3D Virtual Environment (AZTEC ISLAND)</b>
-- [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- [3D Virtual Environment (AZTEC ISLAND)](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [AUTONOMOUS ROBOT NAVIGATION (JAVA)](https://www.youtube.com/watch?v=b7HCgPpURcM)
