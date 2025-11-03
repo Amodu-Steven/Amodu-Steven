@@ -8,7 +8,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Online Anomaly Detection With Feature Localization Using Deep-Learning.</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [[Online Anomaly Detection With Feature Localization Using Deep-Learning]](https://github.com/Amodu-Steven/Online-Anomaly-Detection)
 - <b>Customer Churn Prediction & Business Intelligence System </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Facial recognition Application</b>
