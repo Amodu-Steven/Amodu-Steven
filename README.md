@@ -8,9 +8,9 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Online Anomaly Detection With Feature Localization Using Deep-Learning.</b>
-  - [[Online Anomaly Detection With Feature Localization Using Deep-Learning]](https://github.com/Amodu-Steven/Online-Anomaly-Detection)
+  - [Online Anomaly Detection With Feature Localization Using Deep-Learning](https://github.com/Amodu-Steven/Online-Anomaly-Detection)
 - <b>Customer Churn Prediction & Business Intelligence System </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Customer Churn Prediction & Business Intelligence System](https://github.com/Amodu-Steven/Customer-Churn-Prediction-Business-Intelligence-System)) 
 - <b>Facial recognition Application</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
  
