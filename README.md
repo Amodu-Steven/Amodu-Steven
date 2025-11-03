@@ -12,7 +12,7 @@
 - <b>Customer Churn Prediction & Business Intelligence System </b>
   - [Customer Churn Prediction & Business Intelligence System](https://github.com/Amodu-Steven/Customer-Churn-Prediction-Business-Intelligence-System)) 
 - <b>Facial recognition Application</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Facial recognition Application](https://github.com/Amodu-Steven/Facial-recognition-Application)
  
 <h2>👨‍💻 Other Projects (Robotics Programming, Virtual reality Environment)</h2>
   
