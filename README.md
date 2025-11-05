@@ -13,6 +13,14 @@
   - [Customer Churn Prediction & Business Intelligence System](https://github.com/Amodu-Steven/Customer-Churn-Prediction-Business-Intelligence-System)) 
 - <b>Facial recognition Application</b>
   - [Facial recognition Application](https://github.com/Amodu-Steven/Facial-recognition-Application)
+
+   <h2>👨‍💻 PLC Projects:</h2>
+
+- <b>Ring and Peg Assembly.</b>
+  - [Online Anomaly Detection With Feature Localization Using Deep-Learning](https://github.com/Amodu-Steven/Online-Anomaly-Detection)
+- <b>Customer Churn Prediction & Business Intelligence System </b>
+  - [Customer Churn Prediction & Business Intelligence System](https://github.com/Amodu-Steven/Customer-Churn-Prediction-Business-Intelligence-System)) 
+
  
 <h2>👨‍💻 Other Projects (Robotics Programming, Virtual reality Environment)</h2>
   
@@ -24,6 +32,8 @@
 
 - <b>3D Virtual Environment (AZTEC ISLAND)</b>
   - [3D Virtual Environment (AZTEC ISLAND)](https://github.com/Amodu-Steven/3D-Virtual-Environment-AZTEC-ISLAND-)
+
+
   
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -36,6 +46,8 @@
 - <b>Google IT Professional Certificate - Coursera</b>
 - <b>Data Science and Machine Learning Internship - Edureka</b>
 - <b>DevOps for Absolute Beginners: Azure DevOps, Docker, Kubernetes, Jenkins, Terraform, Ansible - Udemy - Ongoing Course</b>
+- <b>Learn Siemens PLC & HMI 2025: TIA Portal V20 Complete Course</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
