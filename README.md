@@ -1,6 +1,7 @@
 <h1>Hi, I'm Emmanuel Amodu! 
   
 <br/><a >Machine Learning Engineer</a>, <a >Robotics Engineer</a>, <a >IT Support Engineer</a></h1>
+- Msc Robotics and Automation. B.Eng Mechanical Engineering
 - Robotics and Automation MSc graduate skilled in machine learning, autonomous systems and robotics software, with a track record of building practical, production-ready tools.
 - Former technical lead and support engineer at Tek-Expert (Microsoft Partnerwho trained a 20-person team, improved knowledge bases, and cut average handling time by 50%, bringing a user-centred mindset to every build.
 
