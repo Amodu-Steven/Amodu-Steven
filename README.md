@@ -13,14 +13,6 @@
   - [Customer Churn Prediction & Business Intelligence System](https://github.com/Amodu-Steven/Customer-Churn-Prediction-Business-Intelligence-System)) 
 - <b>Facial recognition Application</b>
   - [Facial recognition Application](https://github.com/Amodu-Steven/Facial-recognition-Application)
-
-   <h2>👨‍💻 PLC Projects:</h2>
-
-- <b>Ring and Peg Assembly.</b>
-  - [Online Anomaly Detection With Feature Localization Using Deep-Learning](https://github.com/Amodu-Steven/Online-Anomaly-Detection)
-- <b>Customer Churn Prediction & Business Intelligence System </b>
-  - [Customer Churn Prediction & Business Intelligence System](https://github.com/Amodu-Steven/Customer-Churn-Prediction-Business-Intelligence-System)) 
-
  
 <h2>👨‍💻 Other Projects (Robotics Programming, Virtual reality Environment)</h2>
   
