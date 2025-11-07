@@ -20,10 +20,10 @@
 - <b>ABB Robotics Programming</b>
   - [ABB Robotics Programming](https://github.com/Amodu-Steven/ABB-ROBOTICS-PROGRAMMING)
 
-- <b>Autonomous Robot Navigation</b>
+- <b>Autonomous Robot Navigation (JAVA) </b>
   - [Autonomous Robot Navigation](https://github.com/Amodu-Steven/Autonomous-Robot-Navigation)
 
-- <b>3D Virtual Environment (AZTEC ISLAND)</b>
+- <b>3D Virtual Environment(C++) (AZTEC ISLAND)</b>
   - [3D Virtual Environment (AZTEC ISLAND)](https://github.com/Amodu-Steven/3D-Virtual-Environment-AZTEC-ISLAND-)
 
 
